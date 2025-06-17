@@ -1,2 +1,2 @@
 # stratascratch-sql-projects-
-SQL interview-style projects from StrataScratch with professional query solutions and insights.
+A collection of real-world SQL interview challenges solved using clean, beginner-friendly code. These projects are based on StrataScratch datasets and are designed to build strong SQL skills for data analyst and data engineer roles.
