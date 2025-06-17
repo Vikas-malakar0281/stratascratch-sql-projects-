@@ -1,0 +1,42 @@
+# StrataScratch SQL Project Portfolio
+
+This repository showcases a collection of real-world SQL challenges from [StrataScratch](https://platform.stratascratch.com/). Each project is designed to strengthen your SQL skills by solving interview-style problems — ideal for aspiring Data Analysts and Data Engineers.
+
+---
+
+## 🧠 Projects Included
+
+### 📌 1. Highest Cost Orders
+- **Problem**: Find the customer with the highest daily total order cost between 2019-02-01 and 2019-05-01.
+- **Skills**: `JOIN`, `SUM`, `GROUP BY`, `ORDER BY`, filtering by date.
+- **File**: [`sql/highest_cost_orders.sql`](./sql/highest_cost_orders.sql)
+
+### 📌 2. Net Change in Car Launches
+- **Problem**: Calculate the difference in the number of car launches per company between 2019 and 2020.
+- **Skills**: `FULL OUTER JOIN`, `COUNT`, `COALESCE`, date-based filtering.
+- **File**: [`sql/net_change_launches.sql`](./sql/net_change_launches.sql)
+
+## 📂 Folder Structure
+stratascratch-sql-projects/
+│
+├── README.md
+├── sql/
+│ ├── highest_cost_orders.sql
+│ └── net_change_launches.sql
+└── reports/ (optional, for markdown write-ups)
+
+
+
+---
+
+## 🚀 Getting Started
+
+These `.sql` files are ready to run on PostgreSQL. You can also adapt them to MySQL, SQLite, or SQL Server with minor changes.
+
+---
+
+## 📚 About Me
+
+I’m currently building my portfolio to land a data engineering job. These projects help me apply and grow my SQL skills with real-world problems.
+
+📫 Connect with me on [LinkedIn](#www.linkedin.com/in/vikas-malakar-5a9446354) or explore more projects coming soon!
